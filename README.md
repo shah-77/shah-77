@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shah-77
 - 👀 I’m interested in web & app development.
 - 🌱 I’m currently learning php,mysql,python.
-- 💞️ I’m looking to collaborate on php project and web development.
+- 💞️ I’m looking to collaborate web development.
 - 📫 How to reach me ...
 
 <!---
