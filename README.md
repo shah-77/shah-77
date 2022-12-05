@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shah-77
 - 👀 I’m interested in web & app development.
-- 🌱 I’m currently learning php,mysql,python.
+- 🌱 I’m currently learning web dev and much more.
 - 💞️ I’m looking to collaborate on web development.
 - 📫 You can email me on dhruvshah428@gmail.com
 
